@@ -8,4 +8,8 @@
 
 [Tarea Nº4 (Tablas)](Tarea4/tablas.html)
 
-[Tarea Nº6 (Formulario nº1)](Tarea5/form.html)
+[Tarea Nº5 (Preguntas)](Tarea5/preguntas.html)
+
+[Tarea Nº6 (Formulario nº1)](Tarea6/form.html)
+
+[Tarea Nº7 (Enlaces)](Tarea7/enlaces.html)
