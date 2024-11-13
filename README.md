@@ -13,3 +13,9 @@
 [Tarea Nº6 (Formulario nº1)](Tarea6/form.html)
 
 [Tarea Nº7 (Enlaces)](Tarea7/enlaces.html)
+
+[Tarea Nº8 (HTML Y CSS I)](Tarea8/enlaces.html)
+
+[Tarea Nº9 (HTML Y CSS II)](Tarea9/enlaces.html)
+
+[Tarea Nº10 (HTML Y CSS III)](Tarea10/enlaces.html)
